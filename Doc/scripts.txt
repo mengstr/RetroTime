@@ -1,0 +1,14 @@
+LATCH PLACEMENT
+http://smallroomlabs.com/eagle/circle_led.php?radius=20.5&xoffset=50&yoffset=50&steps=6&angleoffset=-90&startoffset=15&decimals=4&name=U&first=1&mirror=on
+
+
+
+BUS ROUTING
+http://smallroomlabs.com/eagle/wire_circle.php?radius=20.6&xoffset=50&yoffset=50&steps=96&signal=BUS&layer=TOP&decimals=3&wire=0.2032&count=3&distance=-0.7
+http://smallroomlabs.com/eagle/wire_circle.php?radius=16&xoffset=50&yoffset=50&steps=96&signal=BUS&layer=TOP&decimals=3&wire=0.2032&count=3&distance=-0.7
+http://smallroomlabs.com/eagle/wire_circle.php?radius=22.8&xoffset=50&yoffset=50&steps=96&signal=vcc&layer=top&decimals=3&wire=2.8&count=1&distance=2.54
+
+RESISTORS
+http://smallroomlabs.com/eagle/circle_led.php?radius=40&xoffset=50&yoffset=50&steps=12&angleoffset=-90&startoffset=-4&decimals=3&name=RE&first=1&mirror=on
+http://smallroomlabs.com/eagle/circle_led.php?radius=40&xoffset=50&yoffset=50&steps=12&angleoffset=-90&startoffset=0&decimals=3&name=GR&first=1&mirror=on
+http://smallroomlabs.com/eagle/circle_led.php?radius=40&xoffset=50&yoffset=50&steps=12&angleoffset=-90&startoffset=4&decimals=3&name=BL&first=1&mirror=on
